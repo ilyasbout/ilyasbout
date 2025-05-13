@@ -1,4 +1,4 @@
-body {
+عنbody {
   font-family: Tahoma, sans-serif;
   background-color: #f4f4f4;
   padding: 20px;
@@ -153,6 +153,56 @@ ul {
     ⬇️ اضغط هنا لتحميل الكتيب (PDF)
   </a>
   <p style="margin-top:20px;">Format disponible aussi en français.</p>
+  <a href="index.html">رجوع للرئيسية</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>الأسئلة الشائعة</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    details {
+      background: #e0f2f1;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    summary {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>أسئلة شائعة حول Water Retainer</h1>
+
+  <details>
+    <summary>فوقاش نرش Water Retainer؟</summary>
+    <p>مباشرة قبل الزرع أو مع أول سقي. يمكن أيضاً استعماله بعد الزرع مع الري العادي.</p>
+  </details>
+
+  <details>
+    <summary>شحال خاصني نرش لكل هكتار؟</summary>
+    <p>الجرعة الموصى بها هي 2 mL/m² أي 20 لتر للهكتار. فحالات الجفاف أو التربة الرملية، يمكن استعمال 4 mL/m².</p>
+  </details>
+
+  <details>
+    <summary>وش كيعوض السقي؟</summary>
+    <p>لا. Water Retainer ما كيعوضش الماء، ولكن كيساعد التربة تحافظ عليه ويقلل عدد السقيات حتى بـ 50%.</p>
+  </details>
+
+  <details>
+    <summary>واش عندو تأثير على الجذور أو الكائنات النافعة؟</summary>
+    <p>لا. Water Retainer منتج طبيعي 100% وخالي من أي مواد سامة أو كيميائية.</p>
+  </details>
+
+  <details>
+    <summary>واش يمكن ندمجو مع السماد أو مبيد؟</summary>
+    <p>نعم، يمكن خلطه مع المبيدات أو الأسمدة في نفس الرشة، غير خاص يكون فـ نفس الحوض.</p>
+  </details>
+
   <a href="index.html">رجوع للرئيسية</a>
 </body>
 </html>
